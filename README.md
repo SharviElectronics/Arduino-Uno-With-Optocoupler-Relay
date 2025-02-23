@@ -1,4 +1,9 @@
-Arduino Uno With Optocoupler Relay
+<b>Arduino Uno With Optocoupler Relay</b>
+
+![Alt text](https://sharvielectronics.b-cdn.net/wp-content/uploads/2020/07/Arduino-Uno-With-Optocoupler-Relay-7.jpg)
+
+
+
 Arduino Uno With Optocoupler Relay is a board based on ATmega328p which is an 8-bit microcontroller from ATMEL. The main purpose of building this board is to use it in COVID-19 and similar kinds of projects. It consists of two relays with optocoupler protection. Also, it has a provision to connect the ultrasonic sensor and use it for further application. There is a push-button on-board as well to perform reset.
 
 Features/Specs :
@@ -20,16 +25,16 @@ Compact in size
 User Friendly
  
 
-Application:
+<b>Application:</b>
 Home Appliances
 Timer Application
 Distance measurement through Ultrasonic
-
+<hr>
 <b>Pinout Details:</b>
 
 ![Alt text](https://sharvielectronics.b-cdn.net/wp-content/uploads/2020/07/Arduino-Uno-With-Optocoupler-Relay-8-1.jpg)
 
-
+<hr>
 <b>Programming Details:</b>
 
 ![Alt text](https://sharvielectronics.b-cdn.net/wp-content/uploads/2020/07/Arduino-Uno-With-Optocoupler-Relay_4-1.jpg)
