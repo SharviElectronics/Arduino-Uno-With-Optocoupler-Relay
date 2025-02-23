@@ -24,3 +24,12 @@ Application:
 Home Appliances
 Timer Application
 Distance measurement through Ultrasonic
+
+<b>Pinout Details:</b>
+
+https://sharvielectronics.b-cdn.net/wp-content/uploads/2020/07/Arduino-Uno-With-Optocoupler-Relay-8-1.jpg
+
+
+<b>Programming Details:</b>
+
+https://sharvielectronics.b-cdn.net/wp-content/uploads/2020/07/Arduino-Uno-With-Optocoupler-Relay_4-1.jpg
